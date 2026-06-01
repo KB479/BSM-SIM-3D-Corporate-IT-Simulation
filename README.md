@@ -12,6 +12,11 @@ Developed with a strong focus on software engineering principles, the project fe
 
 > ⚠️ **Repository Status Notice:** > This repository is currently serving as a **showcase** for the Minimum Viable Product (MVP) stage. It contains architectural designs, core C# code snippets, and conceptual documents. Once the prototype playtesting is complete, a full-scale development environment—complete with standard commit histories, branching strategies, and CI/CD pipelines—will be established.
 
+## 🎨 Asset Credits & UI Disclaimer
+
+* **UI Placeholders:** Certain graphical user interface (GUI) elements visible in the prototype screenshots (such as specific OS wallpapers, IDE, and email client icons) are temporary placeholder assets. They were used strictly for rapid prototyping and familiarity during early testing. A comprehensive visual overhaul is planned, and these will be entirely replaced with original or open-source alternatives in the final deployment.
+* **3D Environment:** The corporate office environment and hardware props are constructed using the "[Low Poly Office Set 1](https://assetstore.unity.com/packages/3d/props/low-poly-office-set-1-140-models-vnb-327126)" created by **VNB**.
+
 ## 🚀 Key Features & Architecture
 
 * **Data-Driven Design:** Corporate scenarios and tasks are isolated using Unity's `ScriptableObject` (TaskSO) architecture rather than being hardcoded. This plug-and-play approach allows for the easy integration of new curriculum topics.
@@ -29,22 +34,38 @@ Developed with a strong focus on software engineering principles, the project fe
 
 *(Note: Certain UI elements shown below are temporary placeholders used for rapid prototyping. See the Asset Credits section for details.)*
 
-![3D Office Environment](Screenshots/3d-office-environment.png)
+<img src="Screenshots/3d-office.png" alt="3D Office Environment" width="600">
+
 *General view of the corporate office environment designed with a low-poly aesthetic.*
 
-![Software Department](Screenshots/3d-software-department.png)
+<br>
+
+<img src="Screenshots/software_unit" alt="Software Department" width="600">
+
 *The Software Development Department where players interact with their main workstations.*
 
-![BSM-OS and IDE](Screenshots/bsm-os-ide.png)
+<br>
+
+<img src="Screenshots/os_and_ide" alt="BSM-OS and IDE" width="600">
+
 *The virtual operating system (BSM-OS) featuring the in-game Integrated Development Environment (IDE) for coding tasks.*
 
-![Mail Application](Screenshots/mail-app.png)
+<br>
+
+<img src="Screenshots/mail_app" alt="Mail Application" width="600">
+
 *The in-game email client used for receiving daily corporate directives, tasks, and scenario updates.*
 
-![Tab Menu](Screenshots/tab-menu.png)
+<br>
+
+<img src="Screenshots/tab_menu" alt="Tab Menu" width="600">
+
 *The overlay tab menu designed for tracking current objectives, daily credits, and performance metrics.*
 
-![Dialogue System](Screenshots/dialogue-screen.png)
+<br>
+
+<img src="Screenshots/npc_dialogue" alt="Dialogue System" width="600">
+
 *Interactive dialogue screen for communicating with NPC colleagues and navigating organizational decisions.*
 
 ## 🎨 Asset Credits & UI Disclaimer
